@@ -1,0 +1,15 @@
+# Archivos generados por Maven y por el IDE: no se suben a GitHub
+target/
+*.class
+*.log
+
+# Archivos del IDE (IntelliJ / Eclipse / VS Code)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Variables de entorno y secretos: NUNCA se suben
+.env
